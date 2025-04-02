@@ -44,6 +44,5 @@ Hello, I am a beginner programmer, I love programming and I do it every day of m
 ## 🔗 Connect with Me
 
 - GitHub: [github.com/Evgen-Jekov](https://github.com/Evgen-Jekov)
-- LinkedIn: [linkedin.com/in/evgen-zhekov]
 
 Looking forward to collaborating and connecting! 🚀
