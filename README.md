@@ -16,6 +16,12 @@ Hello, I am a beginner programmer, I love programming and I do it every day of m
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" title="Redis" alt="Redis" width="40" height="40" style="display: inline-block; margin-right: 10px;"/>
 </p>
 
+## 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Evgen-Jekov&layout=compact&langs_count=8&theme=radical" alt="Top Languages" />
+</p>
+
 ## 📊 GitHub Stats
 
 <p align="center">
