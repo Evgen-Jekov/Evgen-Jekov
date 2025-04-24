@@ -40,7 +40,7 @@ Hello, I am a beginner programmer, I love programming and I do it every day of m
 
 ## 🔥 My Projects
 
-- [Finance Tracker API](https://github.com/Evgen-Jekov/link-shortening) - FastAPI application to manage your finances.
+- [Finance Tracker API](https://github.com/Evgen-Jekov/financial-tracker) - FastAPI application to manage your finances.
 - [TaskTime API](https://github.com/Evgen-Jekov/TaskTime) - Flask API for proper organization of your time
 
 ## 🏆 My CodeWars Stats
