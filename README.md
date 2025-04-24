@@ -40,8 +40,8 @@ Hello, I am a beginner programmer, I love programming and I do it every day of m
 
 ## 🔥 My Projects
 
-- [Short link API](https://github.com/Evgen-Jekov/link-shortening) - Flask API for URL Shortening and Management with Authentication.
-- [TaskTime API](https://github.com/Evgen-Jekov/TaskTime) - Flask API to organize your time correctly and get analytics data about your academic performance
+- [Finance Tracker API](https://github.com/Evgen-Jekov/link-shortening) - FastAPI application to manage your finances.
+- [TaskTime API](https://github.com/Evgen-Jekov/TaskTime) - Flask API for proper organization of your time
 
 ## 🏆 My CodeWars Stats
 
