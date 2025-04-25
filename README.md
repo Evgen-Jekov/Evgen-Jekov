@@ -50,5 +50,6 @@ Hello, I am a beginner programmer, I love programming and I do it every day of m
 ## 🔗 Connect with Me
 
 - GitHub: [github.com/Evgen-Jekov](https://github.com/Evgen-Jekov)
+- Linkedin: [https://www.linkedin.com/in/evgen-zhekov-881052357/](https://www.linkedin.com/in/evgen-zhekov-881052357/)
 
 Looking forward to collaborating and connecting! 🚀
